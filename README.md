@@ -1,26 +1,9 @@
- Hi there 👋, I'm Varsha  
-
-🎓 Computer Science Engineering Student  
-💻 Aspiring Software Developer 
+# 💫 About Me:
+Hi there 👋, I'm Varsha<br><br>🎓 Computer Science Engineering Student<br>💻 Aspiring Software Developer<br><br>🚀 About Me<br><br>🔭 I’m currently working on: real time projects<br>🌱 I’m currently learning: Python, Java, Full Stack Development<br>👯 I’m looking to collaborate on: Web Development & App Projects<br>📫 How to reach me: varsharajmohan236@gmail.com<br>⚡ Fun fact: I believe consistency beats talent 💯<br>🛠️ Tech Stack<br><br>💻 Languages: Python and Java<br>🌐 Web: HTML, CSS, JavaScript<br>🛢️ Database: MySQL<br>⚙️ Tools: Git, GitHub, VS Code<br>🤝 Connect with Me<br><br>💼 LinkedIn: https://www.linkedin.com/in/varsha-rajmohan-ba395832a?utm_source=share_via&utm_content=profile&utm_medium=member_android<br>📧 Email: varsharajmohan236@gmail.com
 
 
-🚀 About Me
-- 🔭 I’m currently working on: real time projects
-- 🌱 I’m currently learning: **Python, Java, Full Stack Development**
-- 👯 I’m looking to collaborate on: **Web Development & App Projects**
-- 📫 How to reach me: **varsharajmohan236@gmail.com**
-- ⚡ Fun fact: **I believe consistency beats talent 💯**
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/varsha_rajmohan23)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:varsharajmohan236@gmail.com) 
 
-
- 🛠️ Tech Stack
-- 💻 Languages: Python and Java
-- 🌐 Web: HTML, CSS, JavaScript  
-- 🛢️ Database: MySQL  
-- ⚙️ Tools: Git, GitHub, VS Code  
-
-
- 🤝 Connect with Me
-- 💼 LinkedIn: https://www.linkedin.com/in/varsha-rajmohan-ba395832a?utm_source=share_via&utm_content=profile&utm_medium=member_android  
-- 📧 Email: varsharajmohan236@gmail.com
-
-
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
